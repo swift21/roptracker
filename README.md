@@ -16,6 +16,6 @@ Please use the table of contents and reference the section and page you are abou
 
 Please also include the original section, and the changes you would like to introduce.
 
-📄 [Read the document here](https://docs.google.com/document/d/1g0EWn4HKSUZp0wPfdrvH1yid6dzOgxf_iI9Sf1iwsDo/edit?usp=sharing)
+📄 [Access the Rules of Procedure document here](https://docs.google.com/document/d/1g0EWn4HKSUZp0wPfdrvH1yid6dzOgxf_iI9Sf1iwsDo/edit?usp=sharing)
 
 [Visit the novel API calculator here](https://swift21.github.io/apicalculator/)
