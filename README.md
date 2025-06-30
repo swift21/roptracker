@@ -4,7 +4,7 @@ The Denizli MUN Rules of Procedure tracker page
 This Github page contains an issue tracker and a link to the up to date version of the Rules of Procedure document.
 
 ## How to Suggest Changes
-Please use the [Issues tab](https://github.com/swift21/roptracker/issues) to suggest edits or raise questions.
+Please use the [Issues tab](https://github.com/swift21/roptracker/issues) to propose changes to the document.
 
 Each issue must be accompanied by with the name of the proposer.
 
